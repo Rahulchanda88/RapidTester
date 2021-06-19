@@ -1,2 +1,2 @@
 # RapidTester
-A test automation framework wiht Cucumber selenium and testng
+A test automation framework created with Java, Cucumber, Selenium and TestNG
